@@ -1,0 +1,13 @@
+{
+  "name": "Anrop CWR3 TFAR Compat",
+  "prefix": "anrop_cwr3_tfar_compat",
+  "version": "1.0.0",
+  "author": "Anrop",
+  "files": [
+    "mod.cpp"
+  ],
+  "keyname": "anrop_cwr3_tfar_compat",
+  "reuse_private_key": true,
+  "signame": "anrop_cwr3_tfar_compat",
+  "sigversion": 3
+}
